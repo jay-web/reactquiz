@@ -1,5 +1,5 @@
 import { IAction } from "../types";
-import NextButton from "./nextButton";
+
 
 interface FinishScreenProps {
     dispatch: React.Dispatch<IAction>;
